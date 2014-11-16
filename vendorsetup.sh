@@ -1,1 +1,1 @@
-add_lunch_combo cm_ls990-userdebug
+add_lunch_combo pa_ls990-userdebug
