@@ -11,4 +11,4 @@ ril.subscription.types=NV,RUIM
 ro.cdma.subscribe_on_ruim_ready=true
 persist.radio.no_wait_for_card=1
 telephony.sms.pseudo_multipart=1
-ro.sf.lcd_density=640
+ro.sf.lcd_density=560
