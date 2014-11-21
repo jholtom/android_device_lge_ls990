@@ -17,14 +17,7 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BLUETOOTH_QCOM_SW TRUE
+#define BTM_DEF_LOCAL_NAME "LG LS990"
+#define BTA_DISABLE_DELAY 100 /* in milliseconds */
 
-#define BTM_DEF_LOCAL_NAME   "LG LS990"
-// Disables read remote device feature
-#define BTA_SKIP_BLE_READ_REMOTE_FEAT TRUE
-#define MAX_L2CAP_CHANNELS    14
-// skips conn update at conn completion
-#define BTA_BLE_SKIP_CONN_UPD  TRUE
-// Enables interleaved scan
-#define BTA_HOST_INTERLEAVE_SEARCH TRUE
 #endif
